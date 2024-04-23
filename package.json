@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Dev5G.github.io/Tailwindcss-React-Responsive-Navbar",
+  "homepage": "https://adhiutomo787982909.github.io/Tailwindcss-React-Responsive-Navbar",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
